@@ -4,16 +4,7 @@ This repository contains my solutions to the Advent of Code programming challeng
 
 ## Repository Structure
 
-The solutions are organized by year, programming language, and challenge day. Each day's directory includes code files for both part 1 and part 2 of the challenge. Here's an overview of the structure:
-
-advent_of_code/
-├── 2015/
-│ ├── python/
-│ │ ├── day-01/
-│ │ │ ├── part1.py
-│ │ │ ├── part2.py
-│ │ ├── ...
-├── ...
+The solutions are organized by year, programming language, and challenge day. Each day's directory includes that day's question, input files and solution code files for both part 1 and part 2 of the challenge.
 
 ## Usage
 
